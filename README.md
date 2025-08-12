@@ -1,8 +1,8 @@
 # Hey, I'm Bhupendra Sharma
 
-Student at Uka Tarsadia University (UTU), pursuing a course in Artificial Intelligence and Machine Learning (AI/ML)<br/>
-I have a good understanding of C language and is currently expanding my skills by learning Python<br/>
-I'm passionate about technology and programming, building a strong foundation in coding, problem-solving, and AI concepts to make career in the field of machine learning and artificial intelligence<br/>
+Student at Uka Tarsadia University (UTU), pursuing a course in Artificial Intelligence and Machine Learning (AI/ML).<br/>
+I have a good understanding of C language and is currently expanding my skills by learning Python.<br/>
+I'm passionate about technology and programming, building a strong foundation in coding, problem-solving, and AI concepts to make career in the field of machine learning and artificial intelligence.<br/>
 
 
 # 💻 Tech Stack:
